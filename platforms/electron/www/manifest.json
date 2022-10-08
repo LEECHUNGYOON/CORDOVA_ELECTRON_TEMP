@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "index.html",
+  "name": "tmp",
+  "short_name": "tmp",
+  "version": "com.tmp.app",
+  "description": "Sample Apache Cordova App",
+  "author": "Apache Cordova Team"
+}
